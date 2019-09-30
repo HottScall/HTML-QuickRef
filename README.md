@@ -1,10 +1,9 @@
 <h1 align="center">HTML-QuickRef</h1>
 <h2 align="center">A personal cheat sheet of HTML tags and attributes</h2>
 
-<h3 align="center"></h3>
-Attributes
+<h3 align="center">Attributes</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><strong>Tags</strong></td>
     <td><strong>Usage</strong></td>
