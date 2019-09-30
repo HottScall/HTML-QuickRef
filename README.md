@@ -53,16 +53,16 @@
       <th>Usage</th>
     </tr>
     <tr>
-      <td><em> </em></td>
+      <td>"<em> </em>"</td>
+      <td>Italic</td>
+    </tr>
+    <tr>
+      <td>"<strong> </strong>" </td>
       <td>Bold</td>
     </tr>
     <tr>
-      <td>Tags</td>
-      <td>Usage</td>
-    </tr>
-    <tr>
-      <td>Tags</td>
-      <td>Usage</td>
+      <td>"<br>"</td>
+      <td>Creates New Paragrapgh</td>
     </tr>
     <tr>
       <td>Tags</td>
@@ -70,11 +70,6 @@
     </tr>
   </tbody>  
 </table>
-
-* 							      Italic
-* <strong></strong> 					  
-* <br>  										    Creates new paragraph
-
 
 <h3 align="center">Lists</h3>
 
