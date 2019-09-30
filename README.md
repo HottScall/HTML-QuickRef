@@ -53,20 +53,16 @@
       <th>Usage</th>
     </tr>
     <tr>
-      <td>"<em> </em>"</td>
+      <td> em /em</td>
       <td>Italic</td>
     </tr>
     <tr>
-      <td>"<strong> </strong>" </td>
+      <td>" strong /strong" </td>
       <td>Bold</td>
     </tr>
     <tr>
-      <td>"<br>"</td>
+      <td>"br"</td>
       <td>Creates New Paragrapgh</td>
-    </tr>
-    <tr>
-      <td>Tags</td>
-      <td>Usage</td>
     </tr>
   </tbody>  
 </table>
