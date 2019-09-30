@@ -6,8 +6,8 @@
 <table>
   <tbody>
     <tr>
-      <td><strong>Tags</strong></td>
-      <td><strong>Usage</strong></td>
+      <th><strong>Tags</strong></th>
+      <th><strong>Usage</strong></th>
     </tr>
     <tr>
       <td>id=""</td>
@@ -46,8 +46,33 @@
 
 <h3 align="center">Text</h3>
 
-* <em></em>								      Italic
-* <strong></strong> 					  Bold
+<table>
+  <tbody>
+    <tr>
+      <th>Tags</th>
+      <th>Usage</th>
+    </tr>
+    <tr>
+      <td><em> </em></td>
+      <td>Bold</td>
+    </tr>
+    <tr>
+      <td>Tags</td>
+      <td>Usage</td>
+    </tr>
+    <tr>
+      <td>Tags</td>
+      <td>Usage</td>
+    </tr>
+    <tr>
+      <td>Tags</td>
+      <td>Usage</td>
+    </tr>
+  </tbody>  
+</table>
+
+* 							      Italic
+* <strong></strong> 					  
 * <br>  										    Creates new paragraph
 
 
