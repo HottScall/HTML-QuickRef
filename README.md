@@ -3,23 +3,46 @@
 
 <h3 align="center">Attributes</h3>
 
-<table align="center">
-  <tr>
-    <td><strong>Tags</strong></td>
-    <td><strong>Usage</strong></td>
-  </tr>
-  <tr>
-    <td>id=""</td>
-    <td>Id of the attribute</td>
-  </tr>
-</table>
-* class=“”									    ClassName of the attribute					
-* style=“”									    Add text colour, font size etc
-* href=“”										    Add a link to a website
-* href=“./abc.html”					    Link to a relative path (internal document)
-* href=“#dave”							    Link to the element with the id of “dave”
-* target=“_blank”						    Open link in a new tab 
-
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Tags</strong></td>
+      <td><strong>Usage</strong></td>
+    </tr>
+    <tr>
+      <td>id=""</td>
+      <td>Id of the attribute</td>
+    </tr>
+      <tr>
+      <td>class=“”</td>
+      <td>ClassName of the attribute</td>
+    </tr>
+    <tr>
+      <td>class=“”</td>
+      <td>ClassName of the attribute</td>
+    </tr>
+    <tr>
+      <td>style=“”</td>
+      <td>Add text colour, font size etc</td>
+    </tr>
+    <tr>
+      <td>href=“”	</td>
+      <td>Add a link to a website</td>
+    </tr>
+    <tr>
+      <td>href=“./abc.html”	</td>
+      <td>Link to a relative path (internal document)</td>
+    </tr>
+    <tr>
+      <td>href=“#dave”</td>
+      <td>Link to the element with the id of “dave”</td>
+    </tr>
+    <tr>
+      <td>target=“_blank”</td>
+      <td>Open link in a new tab</td>
+    </tr>
+  </tbody>
+</table>				    
 
 <h3 align="center">Text</h3>
 
