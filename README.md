@@ -4,7 +4,12 @@
 <h3 align="center"></h3>
 Attributes
 
-* id=“”										      Id of the attribute
+<table>
+  <tr>
+  <td>id=""</td>
+  <td>Id of the attribute</td>
+  </tr>
+</table>
 * class=“”									    ClassName of the attribute					
 * style=“”									    Add text colour, font size etc
 * href=“”										    Add a link to a website
