@@ -6,8 +6,8 @@ Attributes
 
 <table>
   <tr>
-    <td>Tags</td>
-    <td>Usage</td>
+    <td><strong>Tags</strong></td>
+    <td><strong>Usage</strong></td>
   </tr>
   <tr>
     <td>id=""</td>
