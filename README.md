@@ -6,8 +6,12 @@ Attributes
 
 <table>
   <tr>
-  <td>id=""</td>
-  <td>Id of the attribute</td>
+    <td>Tags</td>
+    <td>Usage</td>
+  </tr>
+  <tr>
+    <td>id=""</td>
+    <td>Id of the attribute</td>
   </tr>
 </table>
 * class=“”									    ClassName of the attribute					
